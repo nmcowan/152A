@@ -5,7 +5,6 @@
 #include <string>
 #include <vector>
 #include <algorithm>
-#include <bitset>
 #include <boost/algorithm/string.hpp>
 
 using namespace std;
